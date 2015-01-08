@@ -22,6 +22,8 @@ Easier to see where the code splits up and how it's related.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Different development paths be merged back into one while still maintaining the commit history.
+Because they are merged into a common point.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
