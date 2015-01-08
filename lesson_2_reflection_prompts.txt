@@ -10,11 +10,15 @@ Better control of what's commited.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+You can add only the files related to the change you want to commit to the staging area before commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+When the code is ready for production, branch that version and start working on new releases on a new branch.
+This will make sure you know exactly what's in production. You can then work on new releases in other branches.
 
 How do the diagrams help you visualize the branch structure?
+Easier to see where the code splits up and how it's related.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
