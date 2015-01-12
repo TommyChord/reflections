@@ -30,4 +30,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When collaborating with others and new changes/features are suggested it can be developed in a separate branch. Then others can
+	look at the code and suggest changes or other types of feedback on that branch. Then this will not affect the master branch until it's merged in.
